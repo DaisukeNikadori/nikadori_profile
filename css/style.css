@@ -1,0 +1,63 @@
+header {
+  background-color: rgba(220,220,220,0.4);
+}
+
+footer {
+  margin: 50px 0;
+  background-color: rgba(220,220,220,0.4);
+}
+
+.content-header {
+  margin-top: 50px;
+}
+
+.overview-fig {
+  padding-top: 10px;
+}
+
+.link-fig {
+  padding-top: 10px;  
+}
+
+#profile-car {
+  position: absolute;
+}
+
+#carouselExampleIndicators{
+  position: relative;
+}
+
+.carousel-content {
+  background-color: rgba(220, 220, 220, 0.4);
+}
+
+ #carouselExampleIndicators{
+  margin: 10px;
+}
+
+.link-tag{
+  font-size: 25px;
+  /* color: #F2F5A9; */
+  color: white;
+}
+
+.link-tag a{
+  color: inherit;
+}
+
+.font-awa {
+  color: white;
+  text-decoration: none;
+}
+
+.font-awa:hover {
+  color: rgb(220, 220, 220);
+  text-decoration: none;
+}
+
+#pageTopIcon {
+  background-color: rgb(220, 220, 220);
+  border-radius: 100%;
+  padding: 10px;
+  margin: 100px;
+}

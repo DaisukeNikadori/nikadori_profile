@@ -1,0 +1,15 @@
+@media(max-width: 575px){
+  #pageTopIcon {
+    background-color: rgb(220, 220, 220);
+    border-radius: 100%;
+    padding: 10px;
+    margin: 50px 10px 20px 0;
+  }
+}
+
+
+@media(max-width: 1200px){
+  .carousel-inner{
+    margin: 10px 0;
+  }
+}
